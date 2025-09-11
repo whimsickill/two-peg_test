@@ -1,3 +1,5 @@
+"use client";
+
 import TwoPegTestApp from "../components/TwoPegTestApp";
 
 export default function Page() {
